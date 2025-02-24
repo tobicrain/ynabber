@@ -8,4 +8,4 @@ require github.com/kelseyhightower/envconfig v1.4.0
 
 require github.com/carlmjohnson/versioninfo v0.22.5
 
-require github.com/google/go-cmp v0.6.0
+require github.com/google/go-cmp v0.7.0
